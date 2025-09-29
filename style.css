@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+#su{
+    height: 200px;
+    width: 1600px;
+    background-color:#242435;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+    
+    
+}
+p{
+    color: white;
+    font-style: italic;
+}
+#tu{
+    text-align: center;
+    padding-top: 60px;
+    margin-left: 70px;
+}
+#th{
+    height: 250px;
+    width: 1400px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 120px;
+    margin-top: 80px;
+    margin-left: 100px ;  
+    background-color: #CEEFFD;
+}
+button{
+    font-size: 25px;
+    width: 60%;
+    height: 64%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: none;
+}
+#fo{
+    padding-top: 20px;
+}
+#mh{
+     height: 450px;
+    width: 1400px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 120px;
+    margin-top: 80px;
+    margin-left: 100px ;  
+    background-color: #ECF56E;  
+}
+#lo{
+    padding-top: 20px;
+}
+#po{
+     padding-top: 20px;
+    }
+
+#pi{
+     padding-top: 20px;
+
+}
+#si{
+     padding-top: 20px;
+
+}
+#ki{
+     height: 350px;
+    width: 1400px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 120px;
+    margin-top: 80px;
+    margin-left: 100px ;  
+    background-color: #EED1EE;  
+}
+#no{
+   padding-top: 20px;  
+}
+#mo{
+     padding-top: 20px;
+}
+#bo{
+     padding-top: 20px;
+}
+#yo{
+     height: 350px;
+    width: 1400px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 120px;
+    margin-top: 80px;
+    margin-left: 100px ;  
+    background-color: #D7F5DF;   
+}
+#aa{
+   padding-top: 20px;    
+}
+#bb{
+     padding-top: 20px;  
+}
+#cc{
+     padding-top: 20px;  
+}
